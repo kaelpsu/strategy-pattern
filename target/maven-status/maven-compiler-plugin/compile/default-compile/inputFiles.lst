@@ -1,0 +1,5 @@
+/home/kael/repos/2024.2/Boas_Praticas/strategy-pattern/src/main/java/com/strategypattern/app/Benchmark.java
+/home/kael/repos/2024.2/Boas_Praticas/strategy-pattern/src/main/java/com/strategypattern/app/InventorySearchContext.java
+/home/kael/repos/2024.2/Boas_Praticas/strategy-pattern/src/main/java/com/strategypattern/app/strategies/BinarySearchStrategy.java
+/home/kael/repos/2024.2/Boas_Praticas/strategy-pattern/src/main/java/com/strategypattern/app/strategies/LinearSearchStrategy.java
+/home/kael/repos/2024.2/Boas_Praticas/strategy-pattern/src/main/java/com/strategypattern/app/strategies/SearchStrategy.java
