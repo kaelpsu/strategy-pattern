@@ -80,14 +80,13 @@ public class Benchmark {
         context.setStrategy(new LinearSearchStrategy());
         context.search(largeArray, key);
         endTime = System.nanoTime();
-        System.out.println("Linear Search Time: " + (endTime - startTime) + " ns");
+        System.out.println("Linear Search Time for 1000000 elements: " + (endTime - startTime) + " ns");
 
         startTime = System.nanoTime();
         context.setStrategy(new BinarySearchStrategy());
         context.search(largeArray, key);
         endTime = System.nanoTime();
-        System.out.println("Binary Search Time: " + (endTime - startTime) + " ns");
-
+        System.out.println("Binary Search Time for 1000000 elements: " + (endTime - startTime) + " ns");
         
     }
 }
